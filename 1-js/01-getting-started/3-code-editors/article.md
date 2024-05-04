@@ -29,34 +29,21 @@ IDE-ների և «թեթև խմբագրիչներ»-ի հիմնական տարբ
 
 Գործնականում թեթև խմբագրիչները կարող են ունենալ բազմաթիվ հավելումներ (plugins), որոնք կարող են խմբագրիչի հնարավորություններ մեծացնել, այնպես որ թեթև խմբագրիչների և IDE-ների մեջ խիստ տարանջատում չկա:
 
-<<<<<<< HEAD
 Հետևյալ խնբագրիչներն արժանի են Ձեր ուշադրությանը.
 
-- [Atom](https://atom.io/) (հասանելի է տարբեր հարթակների համար, անվճար է).
 - [Sublime Text](http://www.sublimetext.com) (հասանելի է տարբեր հարթակների համար, վճարովի է).
 - [Notepad++](https://notepad-plus-plus.org/) (Windows, անվճար է).
 - [Vim](http://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/).
-=======
-There are many options, for instance:
-
-- [Sublime Text](https://www.sublimetext.com/) (cross-platform, shareware).
-- [Notepad++](https://notepad-plus-plus.org/) (Windows, free).
-- [Vim](https://www.vim.org/) and [Emacs](https://www.gnu.org/software/emacs/) are also cool if you know how to use them.
->>>>>>> 285083fc71ee3a7cf55fd8acac9c91ac6f62105c
 
 ## Այլ խմբագրիչներ
 
-<<<<<<< HEAD
-Վերոնշյալ խմբագրիչները առավել հաճախ կիրառվողներից են: Գոյություն ունեն նաև այլ խմբագրիչներ: Խմբագրիչի (ինչպես մնացած գործիքների) ընտրությունը Ձեր անձնական գործն է և կարող է կախված լինել նախագծից, սովորություններից, կամ անձնական նախընտրություններից:
-=======
-The editors in the lists above are those that either I or my friends whom I consider good developers have been using for a long time and are happy with.
+Վերոնշյալ խմբագրիչները իմ, իմ ընկերների, որվքեր իմ համար լավ ծրագրավորողներ են օգտագործվում են երկար ժանանակ, և մենք գոհ ենք այդ խմբագրիչներով:
 
-There are other great editors in our big world. Please choose the one you like the most.
+Ընդհանրապես ասած գոյություն ունեն նաև այլ խմբագրիչներ: Դուք ազատ են ընտրել այն խմբագրիչը, որ ձեզ դուր է գալիս։
 
-The choice of an editor, like any other tool, is individual and depends on your projects, habits, and personal preferences.
+Խմբագրիչի (ինչպես մնացած գործիքների) ընտրությունը Ձեր անձնական գործն է և կարող է կախված լինել նախագծից, սովորություններից, կամ անձնական նախընտրություններից:
 
-The author's personal opinion:
+Հեղինակի անձնական կարծիքը հետևյալն է.
 
-- I'd use [Visual Studio Code](https://code.visualstudio.com/) if I develop mostly frontend.
-- Otherwise, if it's mostly another language/platform and partially frontend, then consider other editors, such as XCode (Mac), Visual Studio (Windows) or Jetbrains family (Webstorm, PHPStorm, RubyMine etc, depending on the language).
->>>>>>> 285083fc71ee3a7cf55fd8acac9c91ac6f62105c
+- Frontend նախագծերի համար ես կօգտագործեի [Visual Studio Code](https://code.visualstudio.com/)։
+- Հակառակ դեպքում, այլ պլատֆորմների/լեզուների համար կդիտարկիե այլ խմբագրչներ, օրինակ XCode (Mac), Visual Studio (Windows) կամ Jetbrains ընտանիքի խմբագրիչ (Webstorm, PHPStorm, RubyMine, և այլն, կախված լեզվից)։
