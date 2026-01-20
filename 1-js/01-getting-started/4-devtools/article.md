@@ -49,11 +49,7 @@
 
 Safari (Mac զննիչ, հասանելի չէ Windows և Linux ՕՀ-երում) այն մի փոքր առանձնահատուկ է: Մենք նախ պետք է միացնենք «ծրագրավորման գործիքները»:
 
-<<<<<<< HEAD
-Բացեք Preferences էջը և գնացեք "Advanced" պատուհան։ Ներքևում checkbox կա ծրագրավորման գործիքների համար։
-=======
-Open Settings and go to the "Advanced" pane. There's a checkbox at the bottom:
->>>>>>> d78b01e9833009fab534462e05c03cffc51bf0e3
+Բացեք Settings էջը և գնացեք "Advanced" պատուհան։ Ներքևում checkbox կա
 
 ![safari](safari.png)
 
